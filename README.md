@@ -15,7 +15,7 @@ npm i
 
 That's it! This is a very basic example of gRPC in Node.js. For more advanced usage, you can refer to the official gRPC documentation:
 
-# TO run 
+## To run 
 
 First bash or terminal
 
