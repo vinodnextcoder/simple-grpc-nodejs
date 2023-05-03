@@ -7,7 +7,6 @@
 git clone
 cd simple-grpc-nodejs
 npm i
-
 ```
 - Then, let's create a gRPC service definition in example.proto:
 - Next, let's create a server that implements the Greeter service:
